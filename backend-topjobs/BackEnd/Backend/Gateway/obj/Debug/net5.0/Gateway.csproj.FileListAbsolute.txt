@@ -1,0 +1,261 @@
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.exe
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\staticwebassets\Gateway.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\Gateway\obj\Debug\net5.0\ref\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\staticwebassets\Gateway.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\ref\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.exe
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\staticwebassets\Gateway.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\ref\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\staticwebassets\Gateway.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\ref\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\staticwebassets\Gateway.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\ref\Gateway.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.exe
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.deps.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.runtimeconfig.dev.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Gateway.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Ocelot.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.AssemblyInfo.cs
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\scopedcss\bundle\Gateway.styles.css
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\staticwebassets\Gateway.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.csproj.CopyComplete
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\refint\Gateway.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\Gateway.genruntimeconfig.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\Gateway\obj\Debug\net5.0\ref\Gateway.dll

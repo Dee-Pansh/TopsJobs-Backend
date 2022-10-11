@@ -1,0 +1,429 @@
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.AssemblyInfo.cs
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\refint\DetailsServices.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.exe
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.deps.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.runtimeconfig.dev.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\DetailsServices.pdb
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\scopedcss\bundle\DetailsServices.styles.css
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\staticwebassets\DetailsServices.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.csproj.CopyComplete
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\DetailsServices.genruntimeconfig.cache
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\obj\Debug\net5.0\ref\DetailsServices.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\JobService.deps.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\JobService.runtimeconfig.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\JobService.runtimeconfig.dev.json
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\JobService.exe
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\MailKit.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\MimeKit.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\JobService.dll
+C:\Users\hp\Desktop\21.06.2020\FinalBackEnd\backend-topjobs\BackEnd\Backend\AddDetailsServices\bin\Debug\net5.0\JobService.pdb

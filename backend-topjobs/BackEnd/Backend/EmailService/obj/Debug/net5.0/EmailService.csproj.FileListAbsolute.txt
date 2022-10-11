@@ -1,0 +1,210 @@
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.exe
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.deps.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\MailKit.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\MimeKit.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\scopedcss\bundle\EmailService.styles.css
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\staticwebassets\EmailService.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CopyComplete
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\refint\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.pdb
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.genruntimeconfig.cache
+C:\Users\hp\Desktop\TOP JOBS\BackEnd\Backend\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MailKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MimeKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\scopedcss\bundle\EmailService.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\staticwebassets\EmailService.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\refint\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.exe
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.deps.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MailKit.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MimeKit.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\scopedcss\bundle\EmailService.styles.css
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\staticwebassets\EmailService.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CopyComplete
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\refint\EmailService.dll
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.pdb
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.genruntimeconfig.cache
+C:\Users\hp\Desktop\TOP JOBS\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MailKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MimeKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\scopedcss\bundle\EmailService.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\staticwebassets\EmailService.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\refint\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.exe
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.deps.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.dev.json
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MailKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MimeKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\scopedcss\bundle\EmailService.styles.css
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\staticwebassets\EmailService.StaticWebAssets.Manifest.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.RazorTargetAssemblyInfo.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CopyComplete
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\refint\EmailService.dll
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.pdb
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.genruntimeconfig.cache
+C:\Users\super\OneDrive\Desktop\backend-topjobs\backend-topjobs\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\ref\EmailService.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.exe
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.deps.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.runtimeconfig.dev.json
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\EmailService.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MailKit.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\MimeKit.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\scopedcss\bundle\EmailService.styles.css
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\staticwebassets\EmailService.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.csproj.CopyComplete
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\refint\EmailService.dll
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.pdb
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\EmailService.genruntimeconfig.cache
+C:\Users\hp\Desktop\FinalBackEnd\backend-topjobs\BackEnd\Backend\EmailService\obj\Debug\net5.0\ref\EmailService.dll
